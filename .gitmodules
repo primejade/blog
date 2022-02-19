@@ -1,0 +1,4 @@
+[submodule "primejadeblog/public"]
+	path = primejadeblog/public
+	url = https://github.com/primejade/primejade.github.io.git
+	branch = main
