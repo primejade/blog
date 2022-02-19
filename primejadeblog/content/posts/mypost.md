@@ -1,25 +1,19 @@
 ---
-title: "This is the post Title"
+title: "Post number one"
+draft: false
 date: 2022-02-19T20:05:43+03:30
+tags: ["test", "first"]
+summary: 'Create a beautifully simple personal or academic website in under 10 minutes.'
 ---
 
-# The first section
+## The first section
 
 This is just a simple test from `hugo` static site generator.
 
-```c
-#include <stdio.h>
+```py
+#!/bin/python3
 
-/*
- * I really perfer BSD code-style
- */
-
-int
-main (void)
-{
-    printf("Hello World!\n");
-    return 0;
-}
+print("Hello World!")
 ```
 
 ## I heard multi-lingual
@@ -29,7 +23,7 @@ main (void)
 ### نمونه
 نمونه شماره یک، در حال تست کردن متن فارسی هستیم.
 
-و فکر کنم تمام شد :))
+و فکر کنم تمام شد.
 
 </div>
 

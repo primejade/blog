@@ -1,4 +1,4 @@
 [submodule "primejadeblog/public"]
 	path = primejadeblog/public
-	url = https://github.com/primejade/primejade.github.io.git
+	url = git@github.com:primejade/primejade.github.io.git
 	branch = main

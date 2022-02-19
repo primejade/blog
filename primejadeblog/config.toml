@@ -2,6 +2,8 @@ baseURL = 'https://primejade.github.io/'
 languageCode = 'en-us'
 title = 'The Prime Jade'
 theme = 'hello-friend'
+defaultContentLanguage = 'en'
+copyright = 'primejade'
 
 [params]
   dateform        = 'Jan 2, 2006'
@@ -10,7 +12,7 @@ theme = 'hello-friend'
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "To Share :)"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -19,7 +21,7 @@ theme = 'hello-friend'
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "primejade's blog"
   keywords = "homepage, blog"
   images = [""]
 
@@ -29,15 +31,19 @@ theme = 'hello-friend'
     series   = "series"
 
 [languages]
+  [languages.ar]
+    languagedirection = 'rtl'
+    title = 'نمونه'
+    weight = 2
   [languages.en]
     title = "Hello Friend"
     subtitle = "A simple theme for Hugo"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "primejade's blog"
       logoHomeLink = "/"
     # or
     #
