@@ -9,13 +9,13 @@ tags: ["vim", "text_editor", "workflow"]
 
 ### C
 
-![c_syntax](https://github.com/primejade/primejade.github.io/posts/shots/vim.c.png)
+![c_syntax](/static/shots/vim.c.png)
 
 ### Python
 
-![python_syntax](https://github.com/primejade/primejade.github.io/posts/shots/vim.py.png)
+![python_syntax](/static/shots/vim.py.png)
 
 ### Shell
 
-![sh_syntax](/static/shots/vim.c.png)
+![sh_syntax](/static/shots/vim.sh.png)
 
