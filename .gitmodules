@@ -2,3 +2,9 @@
 	path = primejadeblog/public
 	url = git@github.com:primejade/primejade.github.io.git
 	branch = main
+[submodule "primejadeblog/themes/hugo-clarity"]
+	path = primejadeblog/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
+[submodule "primejadeblog/themes/Hugo-Octopress"]
+	path = primejadeblog/themes/Hugo-Octopress
+	url = https://github.com/parsiya/Hugo-Octopress
